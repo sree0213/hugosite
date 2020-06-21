@@ -1,0 +1,4 @@
+baseURL = "https://sree0213.github.io/"
+languageCode = "en-us"
+title = "Ram New Hugo Site"
+theme = "silhouette-hugo"
